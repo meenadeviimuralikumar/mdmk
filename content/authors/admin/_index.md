@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Meena, a 5th year PhD Candidate at the University of Washington, Seattle. My research focuses on studying i) how  UX and design practitioners, work with Artifical Intelligence and ii) collaborative and organizational aspects of AI application development. I am interested in both empirical investigations as well as in design research and prototyping tools to support practice.
 {style="text-align: justify;"}
