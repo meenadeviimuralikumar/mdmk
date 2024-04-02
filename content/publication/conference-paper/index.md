@@ -8,7 +8,7 @@ authors:
   - admin
   - David W. McDonald
 
-date: 'Just Accepted'
+date: '2024 (Just Accepted)'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
