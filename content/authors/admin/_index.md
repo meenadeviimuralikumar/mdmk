@@ -31,7 +31,7 @@ bio: ''
 interests:
   - Human-centered AI/ML
   - Computer Supported Cooperative Work 
-  - Design Research of AI/ML
+  - Design Research
 
 # Education to show in About widget
 education:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Meena, a 5th year PhD Candidate at the University of Washington, Seattle. My research focuses on studying i) how  UX and design practitioners, work with Artifical Intelligence and ii) collaborative and organizational aspects of AI application development. I am interested in both empirical investigations as well as in design research and prototyping tools to support practice.
-{style="text-align: justify;"}
+Hi! I am Meena, a 5th year PhD Candidate at the University of Washington, Seattle. My research focuses on studying i) how  UX and design practitioners, work with Artifical Intelligence and ii) collaborative and organizational aspects of AI application development. I conduct empirical investigations and utilize design research methods (prototyping, design probes) to better understand and support work practices of AI design and development.
+{style="text-align: left;"}
