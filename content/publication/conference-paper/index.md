@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing Collaborative Challenges and Needs of UX Practitioners when Designing with AI/ML'
+title: 'Analyzing Collaborative Challenges and Needs of UX Practitioners when Designing with AI/ML (Just Accepted)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +8,7 @@ authors:
   - admin
   - David W. McDonald
 
-date: '2024 (Just Accepted)'
+date: '2024-04-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
