@@ -122,5 +122,5 @@ highlight_name: true
 
 Hi! I am Meena, a 5th year PhD Candidate at the University of Washington, Seattle.
 
-My research focuses on practices, methods, and tools for UX practitioners working with Artifical Intelligence (AI) models. I also study collaborative challenges and practices related to AI design and development. I use qualitative, quantitative, and design research methods to better understand and support work practices that involve AI.
+My research focuses on practices, methods, and tools for UX practitioners working with Artifical Intelligence (AI) models. I also study collaborative challenges and practices related to AI design and development. My research draws from qualitative, quantitative, and design research methods to better support work practices that involve AI.
 {style="text-align: left;"}
